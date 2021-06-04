@@ -686,7 +686,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #4633af;
+	background-color: cyan;
 }
 
 .navbar-custom .dropdown-item {
