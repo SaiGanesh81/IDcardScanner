@@ -1128,13 +1128,13 @@ input[type='checkbox'] {
 
 .slider-2 .swiper-container {
 	position: static;
-	width: 90%;
+	width: 100%;
 	text-align: center;
 }
 
 .slider-2 .swiper-button-prev,
 .slider-2 .swiper-button-next {
-	top: 50%;
+	top: 70%;
 	width: 1.125rem;
 }
 
